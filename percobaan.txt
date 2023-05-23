@@ -1,0 +1,2 @@
+Halo dunia, nama saya adalah Aris
+sekarang saya sedang belajar git dan github
